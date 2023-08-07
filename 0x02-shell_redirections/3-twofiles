@@ -1,0 +1,2 @@
+#!/bin/bash
+cast /etc/passwd /etc/hosts
